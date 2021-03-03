@@ -1,6 +1,10 @@
 # bevi
  Inspired by Vortex Vibe and Wyvern, so here is Vibe Southpaw
 
+## Case File
+
+You can find acrylic sandwich case file [here](https://github.com/sendz/keyboard-case)
+
 ## License
 
 This design may be reproduced, modified, and manufactured for **Personal Use Only** and not for **Public Sale**, however I allow to anyone who want to do small GB for their community for maximum of 10 pieces of this PCB per group buy.
